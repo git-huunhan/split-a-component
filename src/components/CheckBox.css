@@ -1,0 +1,19 @@
+.CheckBox {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Box img{
+  width: 0.9rem;
+}
+
+.Box-text p{
+  margin-left: 0.5rem;
+  font-weight: 500;
+  color: rgba(85, 85, 85, 0.7);
+}

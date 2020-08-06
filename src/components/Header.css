@@ -1,0 +1,35 @@
+.Header {
+  align-items: center;
+  display: flex;
+  margin: 2rem;
+  justify-content: space-between;
+}
+
+.Return { 
+  display: flex;
+  align-items: center;
+}
+
+.Return-icon img {
+  flex-grow: 1;
+  width: 80%;
+}
+
+.Return-text p {
+  flex-grow: 1;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding-left: 0.4rem;
+}
+
+.Logo img {
+  flex-grow: 7;
+  width: 13rem;
+}
+
+.Button-signup p {
+  flex-grow: 1;
+  border: 1px solid #555555;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem 0.5rem 1rem ;
+}

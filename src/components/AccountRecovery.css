@@ -1,0 +1,18 @@
+.AccountRecovery {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.AccountRecovery p{
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.f-password p{
+  margin-left: 1rem;
+}
